@@ -1,0 +1,14 @@
+{
+    "name": "mwhabibi/ti2c-pendaftaran",
+    "description": "website form fill-in dengan fungsi CRUD dari/ke database",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mohammad Walid Habibi",
+            "email": "mohammadwalidhabibi@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
